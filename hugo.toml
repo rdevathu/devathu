@@ -1,4 +1,4 @@
-baseURL = 'https://rdevathu.github.io/devathu/'
+baseURL = 'http://devathu.com/'
 languageCode = 'en-us'
 title = 'Rahul Devathu'
 theme = 'PaperMod'
