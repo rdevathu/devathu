@@ -1,0 +1,65 @@
+/* h1{
+    font-family:'Josefin Sans', sans-serif;
+    font-weight: 500;
+}
+
+h2{
+    font-family:'Josefin Sans', sans-serif;
+    font-weight: 500;
+}
+
+h3{
+    font-family:'Josefin Sans', sans-serif;
+    font-weight: 400;
+}
+
+span{
+    font-family:'Josefin Sans', sans-serif;
+    font-weight: 400;
+}
+
+p{
+    font-family:'Inter', sans-serif;
+}
+
+li{
+    font-family:'Inter', sans-serif;
+} */
+
+
+h1{
+    font-family:'Karla', sans-serif;
+    font-weight: 600;
+}
+
+h2{
+    font-family:'Karla', sans-serif;
+    font-weight: 600;
+}
+
+h3{
+    font-family:'Karla', sans-serif;
+    font-weight: 500;
+}
+
+span{
+    font-family:'Karla', sans-serif;
+    font-weight: 600;
+}
+
+input{
+    font-family:'Karla', sans-serif;
+    font-weight: 600;
+}
+
+p{
+    font-family:'Lora', serif;
+}
+
+li{
+    font-family:'Lora', serif;
+}
+
+.entry-content{
+    font-size: 15px;
+}

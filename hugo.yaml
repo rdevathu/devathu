@@ -1,0 +1,30 @@
+baseURL: 'http://devathu.com/'
+languageCode: en-us
+title: Rahul Devathu
+theme: PaperMod
+
+
+params:
+  defaultTheme: auto
+  disableThemeToggle: false
+  hideFooter: true
+  sectionPagesMenu: main
+
+  homeInfoParams:
+      Title: "Hi there 👋"
+      Content: "My name is Rahul and I am a medical student at Stanford. I'm driven by the intersection of computation and engineering in healthcare. My primary aim is to leverage technology to enable personalized, equitable, and holistic medical care for all. Envisioning a future where cutting-edge tech plays a crucial role in healthcare, I'm committed to driving medical innovation forward." 
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/devathu/"
+    - name: twitter
+      url: "<link>"
+    - name: github
+      url: "<link>"
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+
