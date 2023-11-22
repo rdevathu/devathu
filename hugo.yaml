@@ -3,6 +3,9 @@ languageCode: en-us
 title: Rahul Devathu
 theme: PaperMod
 
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
 
 params:
   defaultTheme: auto
@@ -10,9 +13,20 @@ params:
   hideFooter: true
   sectionPagesMenu: main
 
+  env: production
+  description: "Rahul Devathu's personal website"
+  ShowCopyCodeButtons: true
+
+  assets:
+    favicon: "favicons/favicon.ico"
+    favicon16x16: "favicons/favicon-16x16.png"
+    favicon32x32: "favicons/favicon-32x32.png"
+    apple_touch_icon: "favicons/apple-touch-icon.png"
+    safari_pinned_tab: "favicons/safari-pinned-tab.svg"
+
   homeInfoParams:
       Title: "Hi there 👋"
-      Content: "My name is Rahul and I am a medical student at Stanford. I'm driven by the intersection of computation and engineering in healthcare. My primary aim is to leverage technology to enable personalized, equitable, and holistic medical care for all. Envisioning a future where cutting-edge tech plays a crucial role in healthcare, I'm committed to driving medical innovation forward." 
+      Content: "My name is Rahul and I am a medical student at Stanford. I am also a engineer, computer scientist, and wannabe philosopher. I building projects that inspire me and advance medicine through technology. Welcome to my little corner of the internet!" 
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/devathu/"

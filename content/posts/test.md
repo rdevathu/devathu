@@ -6,4 +6,3 @@ draft: false
 
 # Introduction
 
-This is a **test** website and this is not *production* ready.

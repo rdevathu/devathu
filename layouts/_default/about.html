@@ -28,10 +28,6 @@
   {{- end }}
 
   {{- if .Content }}
-  {{ $image := .Resources.GetMatch "whitecoat.jpg" }}
-  
-
-  <img src="{{ $image.RelPermalink }}">
   <div class="post-content">
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}

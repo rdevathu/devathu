@@ -1,0 +1,20 @@
+.img-404{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.text-404{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.not-found{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
