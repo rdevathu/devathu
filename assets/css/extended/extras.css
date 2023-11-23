@@ -18,3 +18,17 @@
     align-items: center;
     height: 100vh;
 }
+
+
+.aboutImgDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+@media (max-width: 500px) {
+    .aboutImgDiv {
+        display: none;
+    }
+}

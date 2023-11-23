@@ -8,15 +8,16 @@ menu: main
 
 {{< columns >}}
 
-![](me.png)
-
-<!-- {{< figure src="me.png" alt="me!" width=400px align=center >}}  -->
-
+<div class=aboutImgDiv>
+{{< figure src="me.png" alt="me!" width=400px class="aboutImg">}} 
+</div>
 <---> <!-- magic separator, between columns -->
 
-&nbsp;
-# Hi 👋, my name is Rahul, welcome to my corner of the internet
-
+<div class=aboutImgDiv>
+<h2>
+Hi 👋, my name is Rahul, welcome to my corner of the internet
+</h2>
+</div>
 {{< /columns >}}
 
 I am a medical student at Stanford and aim to advance medicine through innovation and engineering.

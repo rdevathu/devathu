@@ -35,6 +35,12 @@ params:
     - name: github
       url: "<link>"
 
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 outputs:
     home:
         - HTML
