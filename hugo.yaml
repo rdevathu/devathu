@@ -1,4 +1,4 @@
-baseURL: 'http://devathu.com/'
+baseURL: 'https://devathu.com/'
 languageCode: en-us
 title: Rahul Devathu
 theme: PaperMod
@@ -26,7 +26,7 @@ params:
 
   homeInfoParams:
       Title: "Hi there 👋"
-      Content: "My name is Rahul and I am a medical student at Stanford. I am also a engineer, computer scientist, and wannabe philosopher. I building projects that inspire me and advance medicine through technology. Welcome to my little corner of the internet!" 
+      Content: "My name is Rahul and I am a medical student at Stanford. I am also a engineer, programmer, and amateur philosopher. I building projects that inspire me and advance medicine through technology. Welcome to my little corner of the internet!" 
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/devathu/"
