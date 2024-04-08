@@ -1,7 +1,9 @@
 baseURL: 'https://devathu.com/'
 languageCode: en-us
 title: Rahul Devathu
-theme: PaperMod
+theme:
+  - PaperMod
+  - hugo-embed-pdf-shortcode
 
 
 enableRobotsTXT: true
