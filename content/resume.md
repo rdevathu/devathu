@@ -1,8 +1,7 @@
 ---
 title: "Resume"
-url: "/resume/"
-summary: resume
-menu: main
+aliases: ["/resume"]
+outputs: ["HTML", "REDIRECTS"]
+redirects:
+  - /pdfs/Devathu.pdf
 ---
-
-{{< embed-pdf url="{{ .Site.BaseURL }}pdfs/Devathu.pdf" hidePaginator="true" >}}
