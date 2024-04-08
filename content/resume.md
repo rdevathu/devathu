@@ -1,7 +1,5 @@
 ---
 title: "Resume"
-aliases: ["/resume"]
-outputs: ["HTML", "REDIRECTS"]
-redirects:
+aliases:
   - /pdfs/Devathu.pdf
 ---
