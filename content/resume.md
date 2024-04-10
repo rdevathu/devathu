@@ -1,5 +1,6 @@
 ---
 title: "Resume"
-aliases:
-  - /pdfs/Devathu.pdf
+menu: main
 ---
+
+{{< embed-pdf url="/pdfs/Devathu.pdf" >}}
